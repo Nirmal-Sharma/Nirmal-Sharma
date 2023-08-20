@@ -51,3 +51,15 @@ Hey, My name is Nirmal Sharma and I am a Sr. System Admin⚙️ who is deeply co
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+## 📫 How to reach me? <img align="center" src="https://github.com/Nirmal-Sharma/README.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
+
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/nirmal-sharma1730/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Hashnode](https://hashnode.com/@sharma1730/) 🌐 <br>
+  ⦿ Shoot Me an [Email](mailto:nrmlshrma07@gmail.com) 💌 <br>
+
+  <div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
+
